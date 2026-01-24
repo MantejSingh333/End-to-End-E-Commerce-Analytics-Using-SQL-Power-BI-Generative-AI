@@ -1,4 +1,4 @@
-# End-to-End-E-Commerce-Analytics-Using-SQL-Power-BI-Generative-AI
+# E-Commerce-Analytics-Using-Power-BI
 End-to-end analytics project using SQL, Power BI, and Generative AI to clean, analyze, and visualize e-commerce data and deliver actionable business insights.
 
 End-to-End E-Commerce Analytics Using SQL, Power BI & Generative AI
