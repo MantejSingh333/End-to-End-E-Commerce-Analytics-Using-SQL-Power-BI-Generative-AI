@@ -1,7 +1,7 @@
 # E-Commerce-Analytics-Using-Power-BI
-End-to-end analytics project using SQL, Power BI, and Generative AI to clean, analyze, and visualize e-commerce data and deliver actionable business insights.
+Analytics project using Power BI to clean, analyze, and visualize e-commerce data and deliver actionable business insights.
 
-End-to-End E-Commerce Analytics Using SQL, Power BI & Generative AI
+E-Commerce Analytics Using Power BI
 Project Overview
 
 This project is a comprehensive data analytics mission completed as part of an NZQA-aligned program. The objective was to build an end-to-end analytics solution for a fictional e-commerce company using SQL, Power BI, and Generative AI.
