@@ -4,17 +4,13 @@ Analytics project using Power BI to clean, analyze, and visualize e-commerce dat
 E-Commerce Analytics Using Power BI
 Project Overview
 
-This project is a comprehensive data analytics mission completed as part of an NZQA-aligned program. The objective was to build an end-to-end analytics solution for a fictional e-commerce company using SQL, Power BI, and Generative AI.
+This project is a comprehensive data analytics mission completed as part of an NZQA-aligned program. The objective was to build an analytics solution for a fictional e-commerce company using Power BI.
 
-The project spans data cleaning, transformation, advanced SQL analysis, AI-assisted workflows, interactive data visualization, and business storytelling. It culminates in a Power BI dashboard and strategic recommendations based on data-driven insights.
+The project spans data cleaning, transformation, interactive data visualization, and business storytelling. It culminates in a Power BI dashboard and strategic recommendations based on data-driven insights.
 
 Project Objectives
 
 Clean and transform raw e-commerce data from multiple sources
-
-Perform SQL-based analysis using advanced techniques
-
-Apply Generative AI to automate SQL generation, summarization, and reporting
 
 Build interactive Power BI dashboards with forecasting and time intelligence
 
@@ -40,34 +36,6 @@ Self-sourced dataset related to the e-commerce industry
 Used to enrich analysis and provide additional business context
 
 Mission Breakdown
-🔹 Mission 4 – Data Analytics (ETL & SQL)
-
-Cleaned datasets by removing duplicates and handling missing values
-
-Standardized inconsistent fields (e.g., country names)
-
-Merged multiple datasets using SQL joins
-
-Performed descriptive analytics
-
-Used SQL window functions to rank products by revenue and reviews
-
-Produced an SQL-based analysis report with insights and recommendations
-
-🔹 Mission 5 – Generative AI Integration
-
-Used Generative AI tools to:
-
-Summarize customer reviews
-
-Generate SQL queries for cleaning and merging data
-
-Assist in automated report generation
-
-Documented prompts, outputs, and learnings
-
-Reflected on best practices for using AI in analytics workflows
-
 🔹 Mission X – Data Visualization & Storytelling (Power BI)
 Data Preparation
 
@@ -113,13 +81,7 @@ Individual project reflection focusing on collaboration and learning outcomes
 
 Skills & Tools Demonstrated
 
-SQL (joins, window functions, ETL)
-
 Power BI (Power Query, DAX, forecasting, storytelling)
-
-Generative AI for analytics automation
-
-Cloud data sources (Azure SQL)
 
 Team collaboration & reflective learning
 
@@ -129,7 +91,7 @@ Learning Outcomes Achieved
 
 Applied best-fit technologies to solve real analytics problems
 
-Built an end-to-end data analytics product
+Built an data analytics product
 
 Followed data quality and best practices
 
