@@ -1,4 +1,4 @@
-# E-Commerce Analytics (Power BI)
+# E-Commerce Analysis (Power BI)
 
 Power BI project analyzing e-commerce data to generate actionable business insights.
 
